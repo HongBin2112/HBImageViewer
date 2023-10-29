@@ -2,7 +2,7 @@
 
 
 HB Image Viewer 是一個我自學 Python，還有 Pyside 的一個小小小GUI程式。其中程式的UI界面皆由自己設計。   
-
+![](https://github.com/HongBin2112/HongBin2112/blob/main/figs/HBImageEditor/HBImageViewer.png?raw=true)
 
 ## 主要功能
 這個程式主要用於圖片查看和基本圖片編輯，並且支援一次讀取和查看多個圖片。目前，程式提供了以下功能：
